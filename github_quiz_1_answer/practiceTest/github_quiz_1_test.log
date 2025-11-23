@@ -1,0 +1,1156 @@
+2025-11-21 13:24:34,851 - INFO - ********************Start tests with Chrome********************
+2025-11-21 13:24:36,544 - INFO - **********testlogin_tc1 start**********
+2025-11-21 13:24:42,070 - INFO - testlogin case1 - step 5 passed.
+2025-11-21 13:24:42,201 - INFO - testlogin case1 - step 6 passed.
+2025-11-21 13:24:42,233 - INFO - testlogin case1 - step 7 passed.
+2025-11-21 13:24:42,234 - INFO - **********testlogin case1 passed.**********
+2025-11-21 13:24:42,237 - INFO - **********testlogin_tc1 end**********
+2025-11-21 13:24:42,842 - INFO - **********testlogin_tc2 strat**********
+2025-11-21 13:24:47,753 - INFO - testlogin case2 - step 5 passed.
+2025-11-21 13:24:47,848 - INFO - testlogin case2 - step 6 passed.
+2025-11-21 13:24:47,851 - INFO - **********testlogin case2 passed.**********
+2025-11-21 13:24:47,851 - INFO - **********testlogin_tc2 end**********
+2025-11-21 13:24:48,318 - INFO - **********testlogin_tc3 start**********
+2025-11-21 13:24:53,227 - INFO - testlogin case3 - step 5 passed.
+2025-11-21 13:24:53,327 - INFO - testlogin case3 - step 6 passed.
+2025-11-21 13:24:53,328 - INFO - **********testlogin case3 passed.**********
+2025-11-21 13:24:53,329 - INFO - **********testlogin_tc3 end**********
+2025-11-21 13:24:53,862 - INFO - **********testException_tc1 start**********
+2025-11-21 13:24:57,650 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047616dd
+	0x7ff7047ba27e
+	0x7ff7047ba58c
+	0x7ff70480ed77
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:24:57,961 - INFO - **********testException case1 passed.**********
+2025-11-21 13:24:57,962 - INFO - **********testException_tc1 end**********
+2025-11-21 13:24:58,770 - INFO - **********testlogin_tc2 start**********
+2025-11-21 13:25:08,154 - ERROR - Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047614e5
+	0x7ff7047bb833
+	0x7ff7047ad3a8
+	0x7ff7047e2b0a
+	0x7ff7047acc36
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:25:08,537 - ERROR - Row 2 input field is not displayed.
+2025-11-21 13:25:08,537 - INFO - **********testException_tc2 end**********
+2025-11-21 13:25:09,338 - INFO - **********testException_tc3 start**********
+2025-11-21 13:25:12,707 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047616dd
+	0x7ff7047694c8
+	0x7ff70476c52f
+	0x7ff70476c5ef
+	0x7ff7047b019b
+	0x7ff7047e2b0a
+	0x7ff7047acc36
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:25:12,709 - INFO - **********testException case3 passed.**********
+2025-11-21 13:25:12,794 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047614e5
+	0x7ff7047b3a13
+	0x7ff7047b186a
+	0x7ff7047e2b0a
+	0x7ff7047acc36
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:25:12,795 - INFO - **********testException_tc3 end**********
+2025-11-21 13:25:14,133 - INFO - **********testException_tc4 start**********
+2025-11-21 13:25:25,568 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047616dd
+	0x7ff7047694c8
+	0x7ff70476c52f
+	0x7ff70476c5ef
+	0x7ff7047b3e76
+	0x7ff7047e2b0a
+	0x7ff7047acc36
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:25:25,569 - INFO - **********testException case4 passed.**********
+2025-11-21 13:25:25,663 - INFO - **********testException_tc4 end**********
+2025-11-21 13:25:26,519 - INFO - **********testException_tc5 start**********
+2025-11-21 13:25:32,313 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff704c7a235
+	0x7ff7049d2630
+	0x7ff7047616dd
+	0x7ff7047ba27e
+	0x7ff7047ba58c
+	0x7ff70480ed77
+	0x7ff70480baba
+	0x7ff7047ab0ed
+	0x7ff7047abf63
+	0x7ff704ca5d60
+	0x7ff704c9fe8a
+	0x7ff704cc1005
+	0x7ff7049ed71e
+	0x7ff7049f4e1f
+	0x7ff7049db7c4
+	0x7ff7049db97f
+	0x7ff7049c18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:25:32,314 - INFO - **********testException case5 passed.**********
+2025-11-21 13:25:32,413 - INFO - **********testException_tc5 end**********
+2025-11-21 13:25:36,811 - INFO - ********************Start tests with Edge********************
+2025-11-21 13:25:41,532 - INFO - **********testlogin_tc1 start**********
+2025-11-21 13:25:48,560 - INFO - testlogin case1 - step 5 passed.
+2025-11-21 13:25:49,032 - INFO - testlogin case1 - step 6 passed.
+2025-11-21 13:25:49,123 - INFO - testlogin case1 - step 7 passed.
+2025-11-21 13:25:49,125 - INFO - **********testlogin case1 passed.**********
+2025-11-21 13:25:49,125 - INFO - **********testlogin_tc1 end**********
+2025-11-21 13:25:50,505 - INFO - **********testlogin_tc2 strat**********
+2025-11-21 13:25:56,248 - INFO - testlogin case2 - step 5 passed.
+2025-11-21 13:25:56,648 - INFO - testlogin case2 - step 6 passed.
+2025-11-21 13:25:56,650 - INFO - **********testlogin case2 passed.**********
+2025-11-21 13:25:56,652 - INFO - **********testlogin_tc2 end**********
+2025-11-21 13:25:57,659 - INFO - **********testlogin_tc3 start**********
+2025-11-21 13:26:03,459 - INFO - testlogin case3 - step 5 passed.
+2025-11-21 13:26:03,858 - INFO - testlogin case3 - step 6 passed.
+2025-11-21 13:26:03,858 - INFO - **********testlogin case3 passed.**********
+2025-11-21 13:26:03,859 - INFO - **********testlogin_tc3 end**********
+2025-11-21 13:26:05,135 - INFO - **********testException_tc1 start**********
+2025-11-21 13:26:09,546 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7ddecc4d8
+	0x7ff7ddad40ce
+	0x7ff7ddad431b
+	0x7ff7ddb10777
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:09,919 - INFO - **********testException case1 passed.**********
+2025-11-21 13:26:09,919 - INFO - **********testException_tc1 end**********
+2025-11-21 13:26:11,304 - INFO - **********testlogin_tc2 start**********
+2025-11-21 13:26:21,013 - ERROR - Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7dda8d4c6
+	0x7ff7ddad5402
+	0x7ff7ddacb95e
+	0x7ff7ddaf3c8a
+	0x7ff7ddacb3d5
+	0x7ff7ddacb2ed
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:21,482 - ERROR - Row 2 input field is not displayed.
+2025-11-21 13:26:21,482 - INFO - **********testException_tc2 end**********
+2025-11-21 13:26:22,712 - INFO - **********testException_tc3 start**********
+2025-11-21 13:26:26,112 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7ddecc4d8
+	0x7ff7dda9333f
+	0x7ff7dda956cf
+	0x7ff7dda9578f
+	0x7ff7ddacdac2
+	0x7ff7ddaf3c8a
+	0x7ff7ddacb3d5
+	0x7ff7ddacb2ed
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:26,113 - INFO - **********testException case3 passed.**********
+2025-11-21 13:26:26,268 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7dda8d4c6
+	0x7ff7ddacfef6
+	0x7ff7ddacec46
+	0x7ff7ddaf3c8a
+	0x7ff7ddacb3d5
+	0x7ff7ddacb2ed
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:26,269 - INFO - **********testException_tc3 end**********
+2025-11-21 13:26:27,140 - INFO - **********testException_tc4 start**********
+2025-11-21 13:26:38,930 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7ddecc4d8
+	0x7ff7dda9333f
+	0x7ff7dda956cf
+	0x7ff7dda9578f
+	0x7ff7ddad02f6
+	0x7ff7ddaf3c8a
+	0x7ff7ddacb3d5
+	0x7ff7ddacb2ed
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:38,931 - INFO - **********testException case4 passed.**********
+2025-11-21 13:26:39,061 - INFO - **********testException_tc4 end**********
+2025-11-21 13:26:39,856 - INFO - **********testException_tc5 start**********
+2025-11-21 13:26:45,672 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7ddd1a695
+	0x7ff7ddd1a6f4
+	0x7ff7ddecc4d8
+	0x7ff7ddad40ce
+	0x7ff7ddad431b
+	0x7ff7ddb10777
+	0x7ff7ddacb3d5
+	0x7ff7ddb0e6f2
+	0x7ff7ddaca8aa
+	0x7ff7ddac9bd1
+	0x7ff7ddaca6d3
+	0x7ff7ddb881f4
+	0x7ff7ddb84717
+	0x7ff7ddd472f5
+	0x7ff7ddd35751
+	0x7ff7ddd3dbf9
+	0x7ff7ddd21be4
+	0x7ff7ddd21d33
+	0x7ff7ddd0fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-21 13:26:45,673 - INFO - **********testException case5 passed.**********
+2025-11-21 13:26:45,775 - INFO - **********testException_tc5 end**********
+2025-11-22 14:02:16,283 - INFO - ********************Start tests with Chrome********************
+2025-11-22 14:02:25,409 - INFO - **********testlogin_tc1 start**********
+2025-11-22 14:02:33,690 - INFO - testlogin case1 - step 5 passed.
+2025-11-22 14:02:33,785 - INFO - testlogin case1 - step 6 passed.
+2025-11-22 14:02:33,809 - INFO - testlogin case1 - step 7 passed.
+2025-11-22 14:02:33,810 - INFO - **********testlogin case1 passed.**********
+2025-11-22 14:02:33,810 - INFO - **********testlogin_tc1 end**********
+2025-11-22 14:02:36,275 - INFO - **********testlogin_tc2 strat**********
+2025-11-22 14:02:40,926 - INFO - testlogin case2 - step 5 passed.
+2025-11-22 14:02:41,021 - INFO - testlogin case2 - step 6 passed.
+2025-11-22 14:02:41,022 - INFO - **********testlogin case2 passed.**********
+2025-11-22 14:02:41,029 - INFO - **********testlogin_tc2 end**********
+2025-11-22 14:02:41,480 - INFO - **********testlogin_tc3 start**********
+2025-11-22 14:02:46,162 - INFO - testlogin case3 - step 5 passed.
+2025-11-22 14:02:46,263 - INFO - testlogin case3 - step 6 passed.
+2025-11-22 14:02:46,263 - INFO - **********testlogin case3 passed.**********
+2025-11-22 14:02:46,266 - INFO - **********testlogin_tc3 end**********
+2025-11-22 14:02:46,720 - INFO - **********testException_tc1 start**********
+2025-11-22 14:02:50,380 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff68319a27e
+	0x7ff68319a58c
+	0x7ff6831eed77
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:02:50,485 - INFO - **********testException case1 passed.**********
+2025-11-22 14:02:50,486 - INFO - **********testException_tc1 end**********
+2025-11-22 14:02:50,936 - INFO - **********testlogin_tc2 start**********
+2025-11-22 14:02:58,933 - ERROR - Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831414e5
+	0x7ff68319b833
+	0x7ff68318d3a8
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:02:58,933 - INFO - **********testException case2 passed.**********
+2025-11-22 14:02:59,054 - ERROR - Row 2 input field is not displayed.
+2025-11-22 14:02:59,054 - INFO - **********testException_tc2 end**********
+2025-11-22 14:02:59,718 - INFO - **********testException_tc3 start**********
+2025-11-22 14:03:02,893 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff6831494c8
+	0x7ff68314c52f
+	0x7ff68314c5ef
+	0x7ff68319019b
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:03:02,893 - INFO - **********testException case3 passed.**********
+2025-11-22 14:03:02,914 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831414e5
+	0x7ff683193a13
+	0x7ff68319186a
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:03:02,914 - INFO - **********testException_tc3 end**********
+2025-11-22 14:03:03,378 - INFO - **********testException_tc4 start**********
+2025-11-22 14:03:13,992 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff6831494c8
+	0x7ff68314c52f
+	0x7ff68314c5ef
+	0x7ff683193e76
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:03:13,992 - INFO - **********testException case4 passed.**********
+2025-11-22 14:03:14,082 - INFO - **********testException_tc4 end**********
+2025-11-22 14:03:14,981 - INFO - **********testException_tc5 start**********
+2025-11-22 14:03:20,622 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff68319a27e
+	0x7ff68319a58c
+	0x7ff6831eed77
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:03:20,624 - INFO - **********testException case5 passed.**********
+2025-11-22 14:03:20,726 - INFO - **********testException_tc5 end**********
+2025-11-22 14:03:26,721 - INFO - ********************Start tests with Edge********************
+2025-11-22 14:03:28,440 - INFO - **********testlogin_tc1 start**********
+2025-11-22 14:03:33,800 - INFO - testlogin case1 - step 5 passed.
+2025-11-22 14:03:33,915 - INFO - testlogin case1 - step 6 passed.
+2025-11-22 14:03:33,932 - INFO - testlogin case1 - step 7 passed.
+2025-11-22 14:03:33,933 - INFO - **********testlogin case1 passed.**********
+2025-11-22 14:03:33,933 - INFO - **********testlogin_tc1 end**********
+2025-11-22 14:03:34,703 - INFO - **********testlogin_tc2 strat**********
+2025-11-22 14:03:40,243 - INFO - testlogin case2 - step 5 passed.
+2025-11-22 14:03:40,616 - INFO - testlogin case2 - step 6 passed.
+2025-11-22 14:03:40,621 - INFO - **********testlogin case2 passed.**********
+2025-11-22 14:03:40,624 - INFO - **********testlogin_tc2 end**********
+2025-11-22 14:03:41,405 - INFO - **********testlogin_tc3 start**********
+2025-11-22 14:03:46,765 - INFO - testlogin case3 - step 5 passed.
+2025-11-22 14:03:47,150 - INFO - testlogin case3 - step 6 passed.
+2025-11-22 14:03:47,155 - INFO - **********testlogin case3 passed.**********
+2025-11-22 14:03:47,155 - INFO - **********testlogin_tc3 end**********
+2025-11-22 14:03:49,099 - INFO - **********testException_tc1 start**********
+2025-11-22 14:03:55,347 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f95340ce
+	0x7ff6f953431b
+	0x7ff6f9570777
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:03:55,708 - INFO - **********testException case1 passed.**********
+2025-11-22 14:03:55,711 - INFO - **********testException_tc1 end**********
+2025-11-22 14:03:57,223 - INFO - **********testlogin_tc2 start**********
+2025-11-22 14:04:06,607 - ERROR - Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f94ed4c6
+	0x7ff6f9535402
+	0x7ff6f952b95e
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:04:06,608 - INFO - **********testException case2 passed.**********
+2025-11-22 14:04:07,032 - ERROR - Row 2 input field is not displayed.
+2025-11-22 14:04:07,034 - INFO - **********testException_tc2 end**********
+2025-11-22 14:04:07,869 - INFO - **********testException_tc3 start**********
+2025-11-22 14:04:11,149 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f94f333f
+	0x7ff6f94f56cf
+	0x7ff6f94f578f
+	0x7ff6f952dac2
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:04:11,151 - INFO - **********testException case3 passed.**********
+2025-11-22 14:04:11,253 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f94ed4c6
+	0x7ff6f952fef6
+	0x7ff6f952ec46
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:04:11,254 - INFO - **********testException_tc3 end**********
+2025-11-22 14:04:12,051 - INFO - **********testException_tc4 start**********
+2025-11-22 14:04:23,692 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f94f333f
+	0x7ff6f94f56cf
+	0x7ff6f94f578f
+	0x7ff6f95302f6
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:04:23,693 - INFO - **********testException case4 passed.**********
+2025-11-22 14:04:24,072 - INFO - **********testException_tc4 end**********
+2025-11-22 14:04:26,285 - INFO - **********testException_tc5 start**********
+2025-11-22 14:04:32,770 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f95340ce
+	0x7ff6f953431b
+	0x7ff6f9570777
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:04:32,770 - INFO - **********testException case5 passed.**********
+2025-11-22 14:04:33,133 - INFO - **********testException_tc5 end**********
+2025-11-22 14:27:30,945 - INFO - ********************Start tests with Chrome********************
+2025-11-22 14:27:32,844 - INFO - **********testlogin_tc1 start**********
+2025-11-22 14:27:38,280 - INFO - testlogin case1 - step 5 passed.
+2025-11-22 14:27:38,373 - INFO - testlogin case1 - step 6 passed.
+2025-11-22 14:27:38,384 - INFO - testlogin case1 - step 7 passed.
+2025-11-22 14:27:38,384 - INFO - **********testlogin case1 passed.**********
+2025-11-22 14:27:38,384 - INFO - **********testlogin_tc1 end**********
+2025-11-22 14:27:38,825 - INFO - **********testlogin_tc2 strat**********
+2025-11-22 14:27:43,475 - INFO - testlogin case2 - step 5 passed.
+2025-11-22 14:27:43,551 - INFO - testlogin case2 - step 6 passed.
+2025-11-22 14:27:43,551 - INFO - **********testlogin case2 passed.**********
+2025-11-22 14:27:43,552 - INFO - **********testlogin_tc2 end**********
+2025-11-22 14:27:44,004 - INFO - **********testlogin_tc3 start**********
+2025-11-22 14:27:48,717 - INFO - testlogin case3 - step 5 passed.
+2025-11-22 14:27:48,820 - INFO - testlogin case3 - step 6 passed.
+2025-11-22 14:27:48,821 - INFO - **********testlogin case3 passed.**********
+2025-11-22 14:27:48,824 - INFO - **********testlogin_tc3 end**********
+2025-11-22 14:27:49,275 - INFO - **********testException_tc1 start**********
+2025-11-22 14:27:52,099 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff68319a27e
+	0x7ff68319a58c
+	0x7ff6831eed77
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:27:52,199 - INFO - **********testException case1 passed.**********
+2025-11-22 14:27:52,200 - INFO - **********testException_tc1 end**********
+2025-11-22 14:27:52,655 - INFO - **********testlogin_tc2 start**********
+2025-11-22 14:28:00,689 - ERROR - Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831414e5
+	0x7ff68319b833
+	0x7ff68318d3a8
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:00,689 - INFO - **********testException case2 passed.**********
+2025-11-22 14:28:00,796 - ERROR - Row 2 input field is not displayed.
+2025-11-22 14:28:00,796 - INFO - **********testException_tc2 end**********
+2025-11-22 14:28:01,273 - INFO - **********testException_tc3 start**********
+2025-11-22 14:28:03,819 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff6831494c8
+	0x7ff68314c52f
+	0x7ff68314c5ef
+	0x7ff68319019b
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:03,820 - INFO - **********testException case3 passed.**********
+2025-11-22 14:28:03,842 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: chrome=142.0.7444.163)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831414e5
+	0x7ff683193a13
+	0x7ff68319186a
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:03,844 - INFO - **********testException_tc3 end**********
+2025-11-22 14:28:04,288 - INFO - **********testException_tc4 start**********
+2025-11-22 14:28:14,939 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff6831494c8
+	0x7ff68314c52f
+	0x7ff68314c5ef
+	0x7ff683193e76
+	0x7ff6831c2b0a
+	0x7ff68318cc36
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:14,942 - INFO - **********testException case4 passed.**********
+2025-11-22 14:28:15,021 - INFO - **********testException_tc4 end**********
+2025-11-22 14:28:16,136 - INFO - **********testException_tc5 start**********
+2025-11-22 14:28:21,798 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: chrome=142.0.7444.163); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff68365a235
+	0x7ff6833b2630
+	0x7ff6831416dd
+	0x7ff68319a27e
+	0x7ff68319a58c
+	0x7ff6831eed77
+	0x7ff6831ebaba
+	0x7ff68318b0ed
+	0x7ff68318bf63
+	0x7ff683685d60
+	0x7ff68367fe8a
+	0x7ff6836a1005
+	0x7ff6833cd71e
+	0x7ff6833d4e1f
+	0x7ff6833bb7c4
+	0x7ff6833bb97f
+	0x7ff6833a18e8
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:21,799 - INFO - **********testException case5 passed.**********
+2025-11-22 14:28:21,899 - INFO - **********testException_tc5 end**********
+2025-11-22 14:28:25,758 - INFO - ********************Start tests with Edge********************
+2025-11-22 14:28:27,588 - INFO - **********testlogin_tc1 start**********
+2025-11-22 14:28:33,158 - INFO - testlogin case1 - step 5 passed.
+2025-11-22 14:28:33,555 - INFO - testlogin case1 - step 6 passed.
+2025-11-22 14:28:33,589 - INFO - testlogin case1 - step 7 passed.
+2025-11-22 14:28:33,589 - INFO - **********testlogin case1 passed.**********
+2025-11-22 14:28:33,590 - INFO - **********testlogin_tc1 end**********
+2025-11-22 14:28:34,378 - INFO - **********testlogin_tc2 strat**********
+2025-11-22 14:28:39,894 - INFO - testlogin case2 - step 5 passed.
+2025-11-22 14:28:40,254 - INFO - testlogin case2 - step 6 passed.
+2025-11-22 14:28:40,254 - INFO - **********testlogin case2 passed.**********
+2025-11-22 14:28:40,255 - INFO - **********testlogin_tc2 end**********
+2025-11-22 14:28:41,037 - INFO - **********testlogin_tc3 start**********
+2025-11-22 14:28:46,084 - INFO - testlogin case3 - step 5 passed.
+2025-11-22 14:28:46,293 - INFO - testlogin case3 - step 6 passed.
+2025-11-22 14:28:46,293 - INFO - **********testlogin case3 passed.**********
+2025-11-22 14:28:46,293 - INFO - **********testlogin_tc3 end**********
+2025-11-22 14:28:46,738 - INFO - **********testException_tc1 start**********
+2025-11-22 14:28:49,630 - ERROR - Row 2 input field is not displayed. Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/section/section/div/div[3]/div/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f95340ce
+	0x7ff6f953431b
+	0x7ff6f9570777
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:49,746 - INFO - **********testException case1 passed.**********
+2025-11-22 14:28:49,747 - INFO - **********testException_tc1 end**********
+2025-11-22 14:28:50,193 - INFO - **********testlogin_tc2 start**********
+2025-11-22 14:28:58,204 - ERROR - Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f94ed4c6
+	0x7ff6f9535402
+	0x7ff6f952b95e
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:28:58,204 - INFO - **********testException case2 passed.**********
+2025-11-22 14:28:58,322 - ERROR - Row 2 input field is not displayed.
+2025-11-22 14:28:58,323 - INFO - **********testException_tc2 end**********
+2025-11-22 14:28:59,157 - INFO - **********testException_tc3 start**********
+2025-11-22 14:29:01,644 - ERROR - Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f94f333f
+	0x7ff6f94f56cf
+	0x7ff6f94f578f
+	0x7ff6f952dac2
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:29:01,645 - INFO - **********testException case3 passed.**********
+2025-11-22 14:29:01,664 - ERROR - testException case3 failed: Message: element not interactable
+  (Session info: MicrosoftEdge=142.0.3595.53)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f94ed4c6
+	0x7ff6f952fef6
+	0x7ff6f952ec46
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:29:01,664 - INFO - **********testException_tc3 end**********
+2025-11-22 14:29:01,845 - INFO - **********testException_tc4 start**********
+2025-11-22 14:29:12,390 - ERROR - The instruction is not displayed.Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f94f333f
+	0x7ff6f94f56cf
+	0x7ff6f94f578f
+	0x7ff6f95302f6
+	0x7ff6f9553c8a
+	0x7ff6f952b3d5
+	0x7ff6f952b2ed
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:29:12,390 - INFO - **********testException case4 passed.**********
+2025-11-22 14:29:12,494 - INFO - **********testException_tc4 end**********
+2025-11-22 14:29:13,329 - INFO - **********testException_tc5 start**********
+2025-11-22 14:29:18,958 - ERROR - Row 2 is not displayed.Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="row2"]/input"}
+  (Session info: MicrosoftEdge=142.0.3595.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6f977a695
+	0x7ff6f977a6f4
+	0x7ff6f992c4d8
+	0x7ff6f95340ce
+	0x7ff6f953431b
+	0x7ff6f9570777
+	0x7ff6f952b3d5
+	0x7ff6f956e6f2
+	0x7ff6f952a8aa
+	0x7ff6f9529bd1
+	0x7ff6f952a6d3
+	0x7ff6f95e81f4
+	0x7ff6f95e4717
+	0x7ff6f97a72f5
+	0x7ff6f9795751
+	0x7ff6f979dbf9
+	0x7ff6f9781be4
+	0x7ff6f9781d33
+	0x7ff6f976fa66
+	0x7ffe7ea0e8d7
+	0x7ffe7fd0c53c
+
+2025-11-22 14:29:18,959 - INFO - **********testException case5 passed.**********
+2025-11-22 14:29:19,060 - INFO - **********testException_tc5 end**********
